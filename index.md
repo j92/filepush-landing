@@ -2,6 +2,16 @@
 
 Receive files without writing a single line of backend code. Perfect for your mobile app.
 
+## SAAS Offering
+Filepush as a service is still in beta.
+- Insights in your app's files.
+- Never worry about hosting and storage again.
+- More configuration options.
+- Language specific libraries (React, React Native).
+- Your data is yours! Export the submissions.
+
+If you are interested to hear more, please send me a message at [joost@petsy.app](mailto:joost@petsy.app).
+
 ### Uploading files made easy.
 Simply send us the file, we ensure it lands safely in AWS S3.
 
@@ -20,4 +30,4 @@ Filepush is still in development. The following features are ahead.
 
 ### Contact us
 Are you interested in using Filepush, but are you still missing some features or need help?
-Drop me a line at [mailto](mailto:joost@petsy.app).
+Drop me a line at [joost@petsy.app](mailto:joost@petsy.app).
